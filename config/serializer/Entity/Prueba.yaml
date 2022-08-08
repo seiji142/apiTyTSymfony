@@ -1,0 +1,7 @@
+App\Entity\Prueba:
+        attributes:
+          id:
+            groups: ['prueba']
+          nombre:
+            groups: ['prueba']
+
